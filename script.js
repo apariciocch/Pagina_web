@@ -2,7 +2,7 @@ function encriptar (){
     var texto = document.querySelector("#input-texto").value;
 
     var textoParaEncriptar = "";
-                           //hola hoberlai
+                   
         for (var i = 0; i < texto.length; i++) {
          
             if (texto[i] == "a") {
