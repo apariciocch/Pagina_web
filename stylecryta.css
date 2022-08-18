@@ -109,8 +109,6 @@ body {
 
 .text-input {
   
-    border-radius: 0.5em;
-    border: 1px solid rgba(0, 0, 0, 0.2);
     display: block;
     padding: 0.5em;
     width: 50%;
@@ -125,11 +123,10 @@ body {
     font-weight: 400px;
     font-size: 32px;
     line-height: 150%;
+
 }
 
-.text-input:focus {
-    outline: none;
-} 
+ 
 
 .text-input-encriptar{
 
