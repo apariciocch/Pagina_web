@@ -117,7 +117,7 @@ body {
     height: 800px;
     background: none;
     border: none;
-    position: absolute;
+    position: relative;
     left: 240px;
     top: 168px;
     font-family: 'Inter';
