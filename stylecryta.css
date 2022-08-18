@@ -127,9 +127,9 @@ body {
     line-height: 150%;
 }
 
-.text-input:focus {
+/*.text-input:focus {
     outline: none;
-}
+} */
 
 .text-input-encriptar{
 
